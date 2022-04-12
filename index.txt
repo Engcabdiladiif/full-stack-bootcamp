@@ -1,0 +1,65 @@
+Your First 10 HTML Tags
+
+
+
+<html> … </html> — The root element. ...
+<head> … </head> — The document head. ...
+<title> … </title> — The page title. ...
+<body> … </body> — The page's content. ...
+<h1> … </h1> — A section heading. ...
+<p> … </p> — A paragraph. ...
+<a> … </a> — A link. ...
+<img> — An image.
+
+
+paragrph  block tag inline tag
+
+block tag wax weye wuxu qaata widht tags 
+oo dhan  waxna ku jira dhamnaa heading oo dhan   h1-h6 iyo paragraphka
+
+inline tag wax qata qayb widht ah waxan so hoos gala oo qata  anchor tag oo line ah
+iyo span
+
+10 .
+<!-----Ancor tag---->
+        <!----- How to creating a link---->
+        <a href="https://google.com">Google</a>
+- href is attribute
+
+
+12. img tag
+
+<!-----image tage------>
+        
+        <img src="sawir.jpg" alt="sawir">
+        
+13. creating video html
+
+ <video>
+            <source src="m23tH63yYm0.bb">
+        </video>
+15 . creating table
+
+<table>
+            <thead>
+                <tr>
+                    <th>1</th>
+                     <th>2</th>
+                      <th>4</th>
+                </tr>
+                <tbody>
+                    <tr>
+                        <td>4</td>
+                        <td>5</td>
+                        <td>6</td>
+                        
+                        
+                    </tr>
+                    <tr>
+                        <td>7</td>
+                         <td>8</td>
+                          <td>9</td>
+                    </tr>
+                </tbody>
+            </thead>
+        </table>
